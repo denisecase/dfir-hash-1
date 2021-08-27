@@ -4,7 +4,13 @@
 
 Run helperscript.exe. 
 
-## helperscript.exe
+```
+.\helperscript.exe
+```
+
+## Helpful Info
+
+helperscript.exe
 
 Algorithm 
 ---------
