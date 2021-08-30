@@ -6,7 +6,6 @@ Before running this executable, verify the SHA256 hash is:
 
 `2A858B6EC58BAD78199888EFDDC6B090CFBF223D18A99B49E90E6525B13910AB`
 
-
 ## Running Programs From the Web
 
 * Developers may need to install software found on the web.
@@ -49,7 +48,6 @@ sha256sum helperscript.exe
 ## DFIR
 
 1. Did you keep your computer safe?
-
 
 ## Resources
 
