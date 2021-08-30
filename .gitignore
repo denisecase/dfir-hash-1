@@ -1,0 +1,5 @@
+# Do not commit these folders/files to the repo
+
+license.txt
+package.psd1
+/out
