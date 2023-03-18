@@ -51,8 +51,6 @@ sha256sum helperscript.exe
 
 ## Resources
 
-* VS Code Extension - PowerShell Pro Tools
-* https://dotnet.microsoft.com/download/visual-studio-sdks (4.6.2 Developer Pack)
 * Do not use PS2EXE. Executables created with PS2EXE are flagged as dangerous by Windows Defender.
 * [Just For Fun](https://ascii.co.uk/art/skulls)
 * [Mirror 1](https://github.com/denisecase/dfir-hash-1)
